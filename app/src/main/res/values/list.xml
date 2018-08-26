@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cores">
+        <item>Vermelho</item>
+        <item>Laranja</item>
+        <item>Azul</item>
+    </string-array>
+
+    <string-array name="frutas">
+        <item>Maça</item>
+        <item>Banana</item>
+        <item>Uva</item>
+    </string-array>
+</resources>
